@@ -1,0 +1,32 @@
+{
+  "name": "allex_fsutilsserverruntimelib",
+  "version": "1.0.0",
+  "description": "AllexJS lib for file system utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-serverruntime-libs/fsutils.git"
+  },
+  "dependencies": {
+    "allex_nodehelpersserverruntimelib": "1.x"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "file",
+    "system",
+    "utilities",
+    "server",
+    "run",
+    "time",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-serverruntime-libs/fsutils/issues"
+  },
+  "homepage": "https://github.com/allex-serverruntime-libs/fsutils#readme"
+}
